@@ -1,3 +1,2 @@
-I am a postdoctoral scholar studying neuroscience and AI as part of Jason Yeatman's Brain and Education lab (http://brainandeducation.com).
-Current projects involve applying convolutional networks to large neuroimaging datasets.
+I am an independent researcher based in Seattle, studying the intersection of AI and neuroscience, with an emphasis on interpreting inner representations of AI models. I am a postdoc alumni of Jason Yeatman's Brain and Education lab (http://brainandeducation.com), where I applied CNN's to large neuroimaging datasets.
 I also have interests in fundamental AI: reinforcement learning, attention mechanisms, information geometry, and a dyanmical systems view of ANN's.
